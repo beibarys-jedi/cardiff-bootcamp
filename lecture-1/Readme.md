@@ -1,8 +1,28 @@
 # Lecture 1 - Git
 
+## Install Git
+
+If you have windows, and want to have Linux on your comp
+https://learn.microsoft.com/ru-ru/windows/wsl/install 
+
+Install `git`
+
+Mac
+https://git-scm.com/install/mac
+
+Windows
+https://git-scm.com/install/windows
+
 ## VCS 
 
 Version Control Systems
+
+На русском почитать
+1. https://git-scm.com/book/ru/v2/%d0%92%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d0%9e-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b5-%d0%ba%d0%be%d0%bd%d1%82%d1%80%d0%be%d0%bb%d1%8f-%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d0%b9
+
+Read about 
+1. https://bitbucket.org/product/version-control-software 
+
 
 ## Git basic principles
 
@@ -40,8 +60,12 @@ Version Control Systems
 | `git diff` | Показывает конкретные изменения в строках кода |
 | `git commit --amend` | Позволяет исправить последний коммит (если еще не сделали push) |
 
-## Code review
+## Good lesson
 
-## Tools
+1. https://up1.github.io/git-guide/index.ru.html
+2. https://githowto.com/
 
 
+## Homework
+1. Fork my repo
+2. Play git branching
