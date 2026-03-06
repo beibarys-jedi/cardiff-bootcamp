@@ -1,5 +1,10 @@
 # Readme
 
+## Status
+
+Done - Updated lecture 2, 3
+TODO - Lesson Recordings
+
 ## Outline
 
 0. Git
